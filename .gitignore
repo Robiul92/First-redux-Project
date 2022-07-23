@@ -5,6 +5,8 @@
 /.pnp
 .pnp.js
 
+/MovieApiKey.js
+
 # testing
 /coverage
 
